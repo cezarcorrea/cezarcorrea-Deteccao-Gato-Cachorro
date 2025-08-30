@@ -71,7 +71,9 @@ Para que o projeto funcione corretamente, a base de dados de imagens deve seguir
 └── yolov5/
 ```
 
-!(https://drive.google.com/drive/u/1/folders/11Z5VgUeKcberfS7f8XC1aNYWUQ4SvPAG)
+## Resultado da Detecção / Imagens Segmentadas
+
+![Image](https://github.com/user-attachments/assets/5dbc6472-bddb-4906-b651-1d840cc9d975)
 
 ### 📜 Licença
 Este projeto está licenciado sob a Licença MIT.
